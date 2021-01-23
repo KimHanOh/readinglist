@@ -11,7 +11,7 @@ import org.springframework.web.bind.annotation.RequestMethod;
 @Controller
 @RequestMapping("/")
 public class ReadingListController {
-	private static final String reader="craigssssssss";
+	private static final String reader="craigssssssssttt";
 	private ReadingListRepository readingListRepository;
 	
 	@Autowired
